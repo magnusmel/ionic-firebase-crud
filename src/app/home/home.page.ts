@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Appointment } from '../shared/appointment';
+import { Appointment } from '../shared/Appointment';
 import { AppointmentService } from './../shared/appointment.service';
 
 @Component({
