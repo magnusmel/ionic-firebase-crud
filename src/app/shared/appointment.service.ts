@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Appointment } from '../shared/appointment';
+import { Appointment } from '../shared/Appointment';
 import { AngularFireDatabase, AngularFireList, AngularFireObject } from '@angular/fire/database';
 
 @Injectable({
